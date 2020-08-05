@@ -9,7 +9,7 @@ I'm a computer science graduate student at the University of Michigan (where I c
 [![github](https://user-images.githubusercontent.com/39270614/89455456-5b657800-d730-11ea-8d05-4721b673d913.png)][3]  
 
 LinkedIn icon made by Freepik from www.flaticon.com   
-Instagram icon made by Pixel perfect from www.flaticon.com
+Instagram icon made by Pixel perfect from www.flaticon.com  
 GitHub icon from https://github.com/logos
 
 [1]: https://www.linkedin.com/in/juyoungkim-lisa/
