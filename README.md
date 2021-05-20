@@ -1,10 +1,9 @@
 # Hi, I'm Lisa. :smiley:
 
 ## About Me :woman:
-🎓 I completed both my bachelor's and master's degrees in computer science at the University of Michigan. Go Blue!
-📖 I love to read thrillers,
-🎹 play piano, 
-⚽ and watch soccer in my free time.
+🎓 I completed both my bachelor's and master's degrees in computer science at the University of Michigan. Go Blue!  
+
+I love to read thrillers 📖, play piano 🎹, and watch soccer ⚽ in my free time.
 
 ## Get in Touch :thumbsup:
 [![linkedin](https://user-images.githubusercontent.com/39270614/89308967-dcdddd00-d640-11ea-9fb5-22fca46d608a.png)][1] 
